@@ -14,3 +14,4 @@ rqt_image_view
 ```
 /camera/image_raw
 ```
+Y debe de verse al robot viendo una linea recta negra
