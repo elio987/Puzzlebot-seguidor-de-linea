@@ -6,7 +6,7 @@ material track_one_line
     {  
       texture_unit
       {
-        texture black_path.png
+        texture pista_extrema.png
       }
     }
   }
